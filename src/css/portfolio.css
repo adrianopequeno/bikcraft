@@ -1,0 +1,25 @@
+.interna_portfolio {
+	background: url('../img/bg-portfolio.jpg') no-repeat center;
+	background-size: cover;
+}
+
+.quote_cliente {
+	padding: 60px 0;
+	max-width: 500px;
+	margin: 0 auto;
+}
+.quote_cliente p {
+	text-align: center;
+	font-family: "Times New Romam", sans-serif;
+	font-size: 18px;
+	line-height: 25px;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+.quote_cliente cite {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+	float: right;
+	font-style: normal;
+}
